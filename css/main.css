@@ -24,7 +24,7 @@ h2 {
 
 .img-flex {
   display: block;
-  width:100%;
+  width: 100%;
 }
 
 .btn {
@@ -34,7 +34,6 @@ h2 {
   background-color: #666;
   padding: 0.4em 0.75em 0.3em;
   font-size: 1.125rem;
-
 }
 
 .btn-big {
@@ -48,4 +47,12 @@ h2 {
 
 body {
   margin: 0;
+}
+
+.content {
+  position: absolute;
+}
+
+.img-circle {
+  float: left;
 }
